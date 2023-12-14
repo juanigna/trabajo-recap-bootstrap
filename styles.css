@@ -1,3 +1,5 @@
+
+
 .profile-image{
     width: 300px;
     height: 300px;
@@ -5,6 +7,10 @@
 }
 p{
     width: auto !important;
+}
+
+h4{
+    width: fit-content  ;
 }
 
 .skills-section{
@@ -21,4 +27,16 @@ p{
 .skill-image{
     width: 100px;
     height: 100px;
+}
+
+/* RESUME SECTION */
+
+.resume-card{
+    border-left: 5px solid #5F9DF7;
+    
+    padding: 1em 0 0 1em;
+}
+
+.resume-card-description{
+    border-bottom: 1px solid #d5d5d5
 }
