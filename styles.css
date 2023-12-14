@@ -6,3 +6,19 @@
 p{
     width: auto !important;
 }
+
+.skills-section{
+    background-color: #F8F9FA;
+}
+
+.skills-title{
+    background-color: #5F9DF7;
+    padding: 1em;
+    width: fit-content !important;
+    text-align: center;
+}
+
+.skill-image{
+    width: 100px;
+    height: 100px;
+}
