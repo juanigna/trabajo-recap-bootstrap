@@ -42,3 +42,35 @@ h4{
 .resume-card-description{
     border-bottom: 1px solid #d5d5d5
 }
+
+
+/* PROJECTS SECTION */
+
+.projects-section{
+    background-color: #F8F9FA;
+
+}
+
+.projects-title{
+    background-color: #5F9DF7;
+    width: fit-content !important;
+}
+
+.project-card{
+    position: relative;
+}
+
+.project-image{
+    width: 300px;
+    height: 300px;
+}
+
+.project-card-title{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    
+    transform: translate(-50%, -50%);
+    z-index: 50;
+    color: #fff;
+}
