@@ -74,3 +74,24 @@ h4{
     z-index: 50;
     color: #fff;
 }
+
+/* CONTACT SECTION */
+
+.contact-input{
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid #d5d5d5;
+    background-color: transparent;
+    color: white;
+}
+.contact-input::placeholder {
+    color: white;
+    opacity: 1; /* Firefox */
+}
+
+.contact-button{
+    color: white;
+    padding: .5em;
+    background-color: #000;
+
+}
